@@ -7,7 +7,7 @@ abstract class dem{
 }
 class demo1 extends dem{
     void display(){
-        System.out.println("abstraction method");
+        System.out.println("abstraction   ");
     }
     void show(){
         System.out.println("abstract method and class");
